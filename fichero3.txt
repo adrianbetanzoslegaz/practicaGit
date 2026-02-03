@@ -8,3 +8,13 @@
 02/03/2026  04:35 PM               295 ficheroNuevo.txt
                2 File(s)            295 bytes
                1 Dir(s)  395,199,696,896 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 2E4D-DAC4
+
+ Directory of C:\proyecto
+
+02/03/2026  04:47 PM    <DIR>          .
+02/03/2026  04:47 PM               353 fichero3.txt
+02/03/2026  04:35 PM               295 ficheroNuevo.txt
+               2 File(s)            648 bytes
+               1 Dir(s)  395,199,467,520 bytes free
