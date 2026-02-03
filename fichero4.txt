@@ -11,3 +11,17 @@
 02/03/2026  04:56 PM               454 traza.log
                5 File(s)          1,474 bytes
                1 Dir(s)  395,187,019,776 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 2E4D-DAC4
+
+ Directory of C:\proyecto
+
+02/03/2026  06:20 PM    <DIR>          .
+02/03/2026  05:10 PM                19 .gitignore
+02/03/2026  04:49 PM               706 fichero3.txt
+02/03/2026  05:10 PM               507 fichero4.txt
+02/03/2026  06:20 PM               326 ficheroNuevo.txt
+02/03/2026  06:04 PM    <DIR>          subcarpeta
+02/03/2026  04:56 PM               454 traza.log
+               5 File(s)          2,012 bytes
+               2 Dir(s)  397,695,569,920 bytes free
