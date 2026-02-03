@@ -1,0 +1,9 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2E4D-DAC4
+
+ Directory of C:\proyecto
+
+02/03/2026  04:11 PM    <DIR>          .
+02/03/2026  04:11 PM                 0 fichero.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  395,168,489,472 bytes free
