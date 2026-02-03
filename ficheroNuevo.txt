@@ -7,3 +7,5 @@
 02/03/2026  04:11 PM                 0 fichero.txt
                1 File(s)              0 bytes
                1 Dir(s)  395,168,489,472 bytes free
+
+Cambio en el ficheroNuevo
