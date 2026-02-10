@@ -2,4 +2,4 @@
 2-git clone https://github.com/adrianbetanzoslegaz/labsoft2026
 3-git commit -am "comentario"
 4-git push
-5-git branch -a
+5-contribute pull request
